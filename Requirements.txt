@@ -4,3 +4,7 @@ Emoji
 Type option
 colour
 vibrant
+
+Dark mode
+light mode
+video option
